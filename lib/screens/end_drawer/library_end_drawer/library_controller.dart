@@ -1,13 +1,13 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Jo_Students/check_user/check_user_request.dart';
-import 'package:Jo_Students/check_user/check_user_response.dart';
-import 'package:Jo_Students/configuration/api_end_point.dart';
-import 'package:Jo_Students/configuration/constant_values.dart';
-import 'package:Jo_Students/screens/http_wrapper/http_wrapper.dart';
-import 'package:Jo_Students/utils/helpers/general.dart';
-import 'package:Jo_Students/utils/helpers/progress_hud.dart';
+import 'package:jo_students/check_user/check_user_request.dart';
+import 'package:jo_students/check_user/check_user_response.dart';
+import 'package:jo_students/configuration/api_end_point.dart';
+import 'package:jo_students/configuration/constant_values.dart';
+import 'package:jo_students/screens/http_wrapper/http_wrapper.dart';
+import 'package:jo_students/utils/helpers/general.dart';
+import 'package:jo_students/utils/helpers/progress_hud.dart';
 import 'package:oktoast/oktoast.dart';
 
 import 'library_request.dart';

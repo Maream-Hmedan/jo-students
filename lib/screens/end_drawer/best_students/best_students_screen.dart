@@ -1,12 +1,14 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
-import 'package:Jo_Students/configuration/app_images.dart';
-import 'package:Jo_Students/configuration/constant_values.dart';
-import 'package:Jo_Students/screens/end_drawer/dashboard_end_drawer/dashboard_screen.dart';
-import 'package:Jo_Students/screens/end_drawer/end_drawer_view.dart';
-import 'package:Jo_Students/utils/helpers/app_navigation.dart';
-import 'package:Jo_Students/utils/helpers/general.dart';
-import 'package:Jo_Students/utils/ui/common_views.dart';
-import 'package:Jo_Students/utils/ui/custom_profile_app_bar.dart';
+import 'package:jo_students/configuration/app_images.dart';
+import 'package:jo_students/configuration/constant_values.dart';
+import 'package:jo_students/screens/end_drawer/dashboard_end_drawer/dashboard_screen.dart';
+import 'package:jo_students/screens/end_drawer/end_drawer_view.dart';
+import 'package:jo_students/utils/helpers/app_navigation.dart';
+import 'package:jo_students/utils/helpers/general.dart';
+import 'package:jo_students/utils/ui/common_views.dart';
+import 'package:jo_students/utils/ui/custom_profile_app_bar.dart';
 import 'package:sizer/sizer.dart';
 
 class BestStudentScreen extends StatelessWidget {

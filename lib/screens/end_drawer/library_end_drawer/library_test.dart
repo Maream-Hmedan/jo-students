@@ -1,11 +1,11 @@
-// ignore_for_file: prefer_typing_uninitialized_variables
+// ignore_for_file: prefer_typing_uninitialized_variables, deprecated_member_use
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Jo_Students/configuration/app_images.dart';
-import 'package:Jo_Students/screens/end_drawer/end_drawer_view.dart';
-import 'package:Jo_Students/utils/ui/common_views.dart';
-import 'package:Jo_Students/utils/ui/custom_profile_app_bar.dart';
+import 'package:jo_students/configuration/app_images.dart';
+import 'package:jo_students/screens/end_drawer/end_drawer_view.dart';
+import 'package:jo_students/utils/ui/common_views.dart';
+import 'package:jo_students/utils/ui/custom_profile_app_bar.dart';
 import 'package:sizer/sizer.dart';
 
 import 'library_controller.dart';
