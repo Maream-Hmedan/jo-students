@@ -1,5 +1,5 @@
 
-import 'package:Jo_Students/check_user/check_user_response.dart';
+import 'package:jo_students/check_user/check_user_response.dart';
 
 class CurrentSession {
   static final CurrentSession _shared = CurrentSession._private();
